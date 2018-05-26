@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ChooseColumns_Parameter_is_required"><value>Не указан параметр</value></data>
+  <data name="Save"><value>Сохранить</value></data>
+  <data name="Menu_Hide"><value>Скрыть меню</value></data>
+  <data name="Menu_Show"><value>Показать меню</value></data>
+  <data name="Save_Close"><value>Сохранить и закрыть</value></data>
+  <data name="Cancel"><value>Отменить</value></data>
+  <data name="Export_Excel"><value>Экспорт в Excel</value></data>
+  <data name="Export_XML"><value>Экспорт в XML</value></data>
+  <data name="Select"><value>Выбрать</value></data>
+  <data name="Clear"><value>Очистить</value></data>
+  <data name="Review"><value>Посмотреть</value></data>
+  <data name="New_on_Basis"><value>Создать на основе</value></data>
+  <data name="Add"><value>Добавить</value></data>
+  <data name="Edit"><value>Редактировать</value></data>
+  <data name="Delete"><value>Удалить</value></data>
+  <data name="Loading"><value>Загрузка</value></data>
+  <data name="Home_Page"><value>Стартовая страница</value></data>
+  <data name="Error_Occurred"><value>Произошла ошибка</value></data>
+  <data name="Displayed_Error"><value>Отображаемая ошибка:</value></data>
+  <data name="Select_Value"><value>Выберите значение</value></data>
+  <data name="Crirical_Error"><value>Произошла критическая ошибка: {0}. Нажмите кнопку «Назад» в браузере и попробуйте ещё раз.</value></data>
+  <data name="Log_In"><value>Вход в систему</value></data>
+  <data name="Enter"><value>Войти</value></data>
+  <data name="Login"><value>Логин:</value></data>
+  <data name="Password"><value>Пароль:</value></data>
+  <data name="Required"><value>Обязательно для заполнения</value></data>
+  <data name="Master_Page_Title"><value>Web system on CASEBERRY Technology</value></data>
+  <data name="Master_Page_Header_Title"><value>[Название проекта]</value></data>
+  <data name="Log_Out"><value>Выход</value></data>
+  <data name="Tree_View_Hide"><value>Скрыть область переходов</value></data>
+  <data name="Tree_View_Show"><value>Отобразить область переходов</value></data>
+  <data name="Footer_Copyright"><value>(c) 2004-2017. IIS ZAO. All rights reserved.</value></data>
+  <data name="Saving"><value>Сохранение...</value></data>
+  <data name="View_Not_Initialize"><value>View не инициализировано</value></data>
+  <data name="Wrong_Form_Params"><value>Заданы неправильные параметры при открытии формы. Пожалуйста, нажмите кнопку назад в браузере и повторите попытку.</value></data>
+  <data name="Form_Error"><value>Произошла ошибка при обработке формы</value></data>
+  <data name="Save_Close_Error"><value>Произошла ошибка при сохранении и закрытии</value></data>
+  <data name="Choose_Columns_Hint"><value>Для управления порядком столбцов зажмите левую кнопку мыши на названии столбца и
+            переместите курсор.
+            &lt;br /&gt;
+            Для управления видимостью столбца поставьте/снимите соответствующую галочку.</value></data>
+  <data name="Column_Name"><value>Название столбца</value></data>
+  <data name="Label_OK"><value>OK</value></data>
+  <data name="Change_Columns_View"><value>Изменение отображения колонок...</value></data>
+  <data name="Incorrect_Date"><value>Некорректная дата</value></data>
+  <data name="Reset_Sort"><value>Установить порядок по умолчанию</value></data>
+  <data name="Switch_Checkboxes"><value>Поставить/Снять отметки</value></data>
+  <data name="No_Data"><value>Нет данных</value></data>
+  <data name="Details"><value>Подробно »</value></data>
+  <data name="Lookup_Title"><value>LookUp</value></data>
+  <data name="Add_Selected"><value>Добавить выбранные</value></data>
+  <data name="Columns_Configure"><value>Настроить отображение столбцов</value></data>
+  <data name="Delete_Confirm"><value>Подтвердите удаление</value></data>
+  <data name="Filter"><value>Фильтрация</value></data>
+  <data name="Print"><value>Печать</value></data>
+  <data name="Search"><value>Поиск</value></data>
+  <data name="Search_Clear_Text"><value>Очистить строку поиска</value></data>
+  <data name="Search_What"><value>Что искать</value></data>
+  <data name="Search_Where"><value>Где искать</value></data>
+  <data name="Refresh"><value>Обновить</value></data>
+  <data name="Next"><value>Далее »</value></data>
+  <data name="Prev"><value>« Назад</value></data>
+  <data name="ShowingRowsWhoseFields"><value>Показаны строки, у которых поля</value></data>
+  <data name="Contains"><value> содержат</value></data>
+  <data name="ObjRemoveCount"><value>Удалено объектов:</value></data>
+  <data name="NotAllObjRemoved"><value>Были удалены не все объекты, т.к. некоторые объекты были заблокированы. </value></data>
+  <data name="ObjRemoveError"><value>Ошибка удаления объекта</value></data>
+  <data name="LongTimeStringExport"><value>Выгрузка {0} строк может занять длительное время. Продолжить?</value></data>
+  <data name="StringExportFirst10K"><value>Будут выгружены только первые 10000 строк. Продолжить?</value></data>
+  <data name="EditPageWolvNotFound"><value>Не указан EditPage (форма редактирования) для WebObjectListView</value></data>
+  <data name="LabelPage"><value>Страница:</value></data>
+  <data name="Of"><value>из</value></data>
+  <data name="Shown0to1from2"><value>(Показано с {0} по {1} из {2})</value></data>
+  <data name="ResultsOnPage"><value>Количество результатов на странице: </value></data>
+  <data name="SelectAllObjOnPage"><value>Отметить все</value></data>
+  <data name="ClearFilter"><value>Очистить условия фильтрации</value></data>
+  <data name="Results0to1of2"><value>Результаты {0} &amp;ndash; {1} из {2}</value></data>
+  <data name="ResultsCount"><value>Результатов: </value></data>
+  <data name="DefaultSort"><value>Установить сортировку по умолчанию</value></data>
+  <data name="Tooltip_FilterApply"><value>Чтобы применить фильтр, введите значение и нажмите: </value></data>
+  <data name="Tooltip_FilterApply2"><value>Символ &lt;b&gt;*&lt;/b&gt; при поиске (фильтрации) означает любое количество любых символов</value></data>
+  <data name="Tooltip_PageNumInput"><value>Для перехода на произвольную страницу введите номер страницы и нажмите клавишу Enter</value></data>
+  <data name="LoginUser.FailureText"><value>Введен неверный логин или пароль. Попробуйте еще раз.</value></data>
+  <data name="SelectAllObjOnAllPages"><value>Отметить все на всех страницах</value></data>
+  <data name="SettingName"><value>Название настройки</value></data>
+  <data name="Reports"><value>Отчёты</value></data>
+  </root>
